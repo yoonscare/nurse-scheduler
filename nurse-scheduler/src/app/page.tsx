@@ -186,8 +186,8 @@ export default function HomePage() {
             <div className="flex items-center gap-3">
               <Calendar className="h-8 w-8 text-blue-600" />
               <div>
-                <h1 className="text-xl font-bold text-gray-900">간호사 스케줄러</h1>
-                <p className="text-sm text-gray-500">병동 근무 스케줄 관리 시스템</p>
+                <h1 className="text-xl font-bold text-gray-900">간호사 스케줄러 v1.0</h1>
+                <p className="text-sm text-gray-500">병동 근무 스케줄 관리 시스템 🏥</p>
               </div>
             </div>
             
